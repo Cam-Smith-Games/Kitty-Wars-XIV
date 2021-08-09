@@ -108,7 +108,7 @@ function update() {
 	//--------------------------------------
 	if (phase == 2 && keysDown[K_ENTER] && timer >= 100) {
 		//start game
-		window.location.href = 'SimpleGame.html';
+		window.location.href = 'simplegame.html';
 	}
 
 	//--------------------------------------
