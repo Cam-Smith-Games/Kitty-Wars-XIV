@@ -1,0 +1,17 @@
+things i'd like to add and know im capable of adding but just lost motivation and time to do so:
+
+1. high score board at gameover screen
+	use local storage (maybe even database stuff for non-local high scores but that'd take some work)
+
+2. enemy spaceships etc
+	shoot at player (find players position, rotate appropriately, shoot laser with same angle etc)
+	BOSSES
+
+3. change power-up system, have random planets to go to and shop for different weapons using space-cred which is just score
+	would be cool but would take a lot of work
+
+4. wanted to incorporate cat sounds when player is hurt and dies, but couldnt find any good ones (didnt spend that much time looking)
+
+5. adding camera to follow player 
+	instead of bouncing from one side of screen to the other when player leaves boundary
+	would allow adding tons of new stuff like planets etc, not enough room to add stuff right now

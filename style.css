@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'prstart';
+	src: url('font/prstartk.ttf');
+}
+
+#mute, #unmute {
+	position: absolute;
+	border: none;
+	width: 64px;
+	height: 64px;
+	left: 0;
+	top: 70px;
+	z-index: 999;
+
+}
+
+#mute {
+	visibility: visible;
+	background: url('img/mute.png') no-repeat;
+}
+
+#unmute {
+	visibility: hidden;
+	background: url('img/unmute.png') no-repeat;
+}

@@ -1,0 +1,28 @@
+changed scene.setSizePos()
+change sound.play() to also load() to play sound repeatedly
+also added volume perameter to sound.play()
+added getTotalTime to timer
+
+gave sprite a type attribute
+if sprites type is player and player leaves boundary, put player at opposite boundary
+if sprites type is laser and laser leaves boundary, remove it
+
+SOURCES:
+
+IMG
+asteroid image 			http://opengameart.org/content/asteroid-0
+laser image 			http://opengameart.org/content/lasers-and-beams
+explosion image 		http://opengameart.org/content/spritesheet-explosion
+alien image (for spacecat)	http://opengameart.org/content/16-bit-alien
+icons (i changed them alot)	http://opengameart.org/content/power-up-icons
+shotgun image (scatter gun)	http://opengameart.org/content/various-inventory-24-pixel-icon-set
+shield image			http://opengameart.org/content/shield-spell
+space background 		http://opengameart.org/content/space-backgrounds
+mute/unmute icons 		http://opengameart.org/content/play-pause-mute-and-unmute-buttons
+
+AUDIO
+explosion sound			http://opengameart.org/content/big-explosion
+laser sound			http://opengameart.org/content/lasershootingsx
+jetpack sound			http://www.freesound.org/people/thatjeffcarter/sounds/128075/
+evolutius music			http://www.matthewpablo.com/ (i contacted him via email for permission to use his music)
+thrust sequence song		http://opengameart.org/content/thrust-sequence
